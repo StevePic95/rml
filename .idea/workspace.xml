@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3753218a-1019-470d-9c6f-9a80b1ac14f2" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship" beforeDir="false" afterPath="$PROJECT_DIR$/ship" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,7 @@
       <workItem from="1678651017985" duration="18381000" />
       <workItem from="1678840780265" duration="1777000" />
       <workItem from="1678843376564" duration="2130000" />
-      <workItem from="1678845507490" duration="873000" />
+      <workItem from="1678845507490" duration="1102000" />
     </task>
     <task id="LOCAL-00001" summary="Add overview of system to readme">
       <created>1677878865167</created>
@@ -218,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678846331727</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="first commit">
+      <created>1678846444740</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678846444740</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

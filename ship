@@ -1,7 +1,7 @@
 #!/bin/bash -x
 
 # remove old containers
-docker-compose down &
+sudo docker-compose down &
 echo "Waiting for docker-compose down..."
 wait
 
@@ -9,18 +9,18 @@ wait
 cd ./nginx/client/ || (echo "Failed to cd into ./nginx/client" && exit)
 
 # execute npm install and wait until it's finished
-npm i &
+sudo npm i &
 echo "Waiting for npm install..."
 wait
 
 # execute npm run build and wait until it's finished
-npm run build &
+sudo npm run build &
 echo "Waiting for npm run build..."
 wait
 
 # copy the build files into the server folder
-cp -r build/ ../../server || (echo "Unable to copy build folder to server folder" && exit)
+sudo cp -r build/ ../../server || (echo "Unable to copy build folder to server folder" && exit)
 
 # run the docker-compose.yml file to start the application
 cd ../../
-docker-compose up --build
+sudo docker-compose up --build
