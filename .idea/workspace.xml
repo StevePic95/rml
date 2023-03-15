@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3753218a-1019-470d-9c6f-9a80b1ac14f2" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old/docker-compose-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/src/calendar_behavior/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/src/components/Calendar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/src/components/CustomerInfoPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/src/components/EmployeeDashboard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/src/components/EmployeeSignInPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/src/components/LandingPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/src/components/OwnerDashboard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/src/components/withRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/src/style/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/client/src/style/ownerdashboard.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/pm2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ship" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="52ec53e6-7c51-4a84-8f6d-77a1cdefdc21" />
+        <option name="url" value="https://github.com/StevePic95/rml.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MUDPn817oT5f63P2UkXPJgFPat" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;19.7.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.14.6&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/stevepic95/Source/RowanU/rml&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/stevepic95/Source/Webstorm-223.8617.44/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client2/src" />
+      <recent name="$PROJECT_DIR$/client2" />
+      <recent name="$PROJECT_DIR$/client2/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$/nginx" />
+      <recent name="$PROJECT_DIR$/nginx/client" />
+      <recent name="$PROJECT_DIR$/client/src/style" />
+      <recent name="$PROJECT_DIR$/client" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3753218a-1019-470d-9c6f-9a80b1ac14f2" name="Changes" comment="" />
+      <created>1677813245951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677813245951</updated>
+      <workItem from="1677813247193" duration="758000" />
+      <workItem from="1677876973178" duration="53000" />
+      <workItem from="1677877036924" duration="20000" />
+      <workItem from="1677878307182" duration="11270000" />
+      <workItem from="1677891134703" duration="2843000" />
+      <workItem from="1677894881899" duration="1208000" />
+      <workItem from="1677898630773" duration="5104000" />
+      <workItem from="1677955689853" duration="18045000" />
+      <workItem from="1677982349340" duration="18339000" />
+      <workItem from="1678003318940" duration="681000" />
+      <workItem from="1678206351999" duration="5863000" />
+      <workItem from="1678242158306" duration="8573000" />
+      <workItem from="1678284395628" duration="676000" />
+      <workItem from="1678296582549" duration="602000" />
+      <workItem from="1678310001872" duration="23473000" />
+      <workItem from="1678388259792" duration="13048000" />
+      <workItem from="1678407710550" duration="7130000" />
+      <workItem from="1678651017985" duration="18381000" />
+      <workItem from="1678840780265" duration="1777000" />
+      <workItem from="1678843376564" duration="2130000" />
+      <workItem from="1678845507490" duration="753000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add overview of system to readme">
+      <created>1677878865167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677878865167</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix port forwarding in docker-compose.yml">
+      <created>1677880697337</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677880697337</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add instructions for accessing adminer">
+      <created>1677881717797</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677881717797</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix compose file pointing to wrong wdir for client">
+      <created>1677898891187</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677898891187</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update README">
+      <created>1677899433237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677899433237</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add prop call to &quot;go to calendar&quot; button">
+      <created>1677899637865</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677899637865</updated>
+    </task>
+    <task id="LOCAL-00007" summary="center landing page components again">
+      <created>1677901117120</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677901117120</updated>
+    </task>
+    <task id="LOCAL-00008" summary="insecure demo version of employee and owner sign in">
+      <created>1677978303298</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677978303298</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix bad credential warning">
+      <created>1677979317737</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677979317737</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix websocket connection over port 80">
+      <created>1677989167124</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677989167124</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Incorporate Thomas's pages and add a couple of my own">
+      <created>1677995759758</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677995759758</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fixed controller_location map">
+      <created>1677996460069</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677996460069</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Big Commit: front end is ugly but works and interacts with a dumbed-down db">
+      <created>1678002252805</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678002252805</updated>
+    </task>
+    <task id="LOCAL-00014" summary="new way of structuring docker containers for connection to local db outside container">
+      <created>1678842162058</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678842162058</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add aws-sdk to package-lock.json for server directory">
+      <created>1678842229473</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678842229473</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add overview of system to readme" />
+    <MESSAGE value="fix port forwarding in docker-compose.yml" />
+    <MESSAGE value="add instructions for accessing adminer" />
+    <MESSAGE value="fix compose file pointing to wrong wdir for client" />
+    <MESSAGE value="update README" />
+    <MESSAGE value="add prop call to &quot;go to calendar&quot; button" />
+    <MESSAGE value="center landing page components again" />
+    <MESSAGE value="insecure demo version of employee and owner sign in" />
+    <MESSAGE value="Fix bad credential warning" />
+    <MESSAGE value="Fix websocket connection over port 80" />
+    <MESSAGE value="Add some new pages" />
+    <MESSAGE value="Incorporate Thomas's pages and add a couple of my own" />
+    <MESSAGE value="Fixed controller_location map" />
+    <MESSAGE value="Big Commit: front end is ugly but works and interacts with a dumbed-down db" />
+    <MESSAGE value="new way of structuring docker containers for connection to local db outside container" />
+    <MESSAGE value="add aws-sdk to package-lock.json for server directory" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
